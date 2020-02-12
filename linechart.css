@@ -4,3 +4,8 @@ line{
   fill: none;
 }
 
+.dataLine{
+	stroke: #0000BB;
+	stroke-width: 1px;
+	fill: none;
+}
